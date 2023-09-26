@@ -1,0 +1,31 @@
+body{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+#watch{
+    margin-top:5%;
+    background-color:grey;
+    width:40%;
+    height:200px;
+
+}
+span{
+    font-size:80px;
+    margin-top:3%;
+}
+
+button{
+    margin-top:5%;
+    margin-left:2%;
+    font-size:40px;
+}
+#start{
+    background:skyblue;
+}
+#stop{
+    background:red;
+}
+#reset{
+    background:blue;
+}
